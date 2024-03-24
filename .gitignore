@@ -1,5 +1,8 @@
+#env file
+.env
+
 #python-enviroment
-python-environment
+/env
 
 # Local .terraform directories
 **/.terraform/*
