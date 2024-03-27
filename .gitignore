@@ -4,7 +4,7 @@
 #python-enviroment
 /env
 
-#swift binary
+#swift binary files
 **/*.xcodeproj/*
 
 # Local .terraform directories
