@@ -44,3 +44,29 @@ terraform.rc
 
 # PEM 파일 무시
 *.pem
+
+# Xcode
+*.xcuserstate
+xcuserdata/
+DerivedData/
+*.xcworkspace
+
+# Build products
+build/
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# JetBrains
+.idea/
+
+# OS generated files
+.DS_Store
+
+# Vim
+*.swp
+*.swo
+
+# plist
+*.plist
